@@ -14,6 +14,7 @@
         "mytrack" : "https://sites.google.com/view/mytrack-malaysia",
         "net2u"   : "http://sites.google.com/view/net2u",
         "seca"    : "https://seca.org.my/",
-        "secacom" : "https://seca.com.my/"
+        "secacom" : "https://seca.com.my/",
+        "devto"   : "https://dev.to/"
     }]
 }
